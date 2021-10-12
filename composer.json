@@ -13,7 +13,7 @@
     "authors": [
         {
             "name": "Paul Klimov",
-            "email": "klimov.paul@gmail.com"
+            "email": "klimov.paul@gmail.com",
         }
     ],
     "require": {
